@@ -1,6 +1,6 @@
-# Azure Delegated Resource Management for resource groups
+# RCL Cloud for Business
 
-This template enables your customer to project a resource group into your Managed Service Provider tenant
+Onboard to the RCL for Business managed service on Azure Lighthouse
 
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Frcl-cloud-business%2Flighthouse-onboard%2Fmaster%2FrgDelegatedResourceManagement.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Frcl-msp%2Flighthouse-business%2Fmaster%2FrgDelegatedResourceManagement.json)
